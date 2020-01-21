@@ -33,7 +33,6 @@ public class DriverManager {
         driver.close();
         if(driver != null){
             driver = null;
-
         }
     }
 

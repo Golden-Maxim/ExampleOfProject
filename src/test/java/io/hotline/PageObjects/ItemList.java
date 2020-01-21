@@ -29,9 +29,9 @@ public class ItemList {
     public ItemList RunPagesAndCheckForPrice(){
         WebElement nextPage;
 
-        for (int i = 1; i < 5;i++ ){
+        for (int i = 0; i < 5;i++ ){
 
-            nextPage = DriverManager.driver.findElement(By.xpath("//*[@id=\"page-search\"]/div[2]/div/div[2]/div[2]/a["+ i +"]"));
+            nextPage = DriverManager.driver.findElement(By.xpath("//a[@class='next']"));
             nextPage.click();
             WebElement price[] = DriverManager.driver.findElements(By.xpath("//div[span[contains(@class, 'value')]]")).toArray(new WebElement[0]);
             System.out.println("Price from: " + i + " page" );

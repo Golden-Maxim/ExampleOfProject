@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05d63afa-7f6a-4ca0-b26c-be88abaede4c" name="Default Changelist" comment="" />
+    <list default="true" id="05d63afa-7f6a-4ca0-b26c-be88abaede4c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/DriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/DriverManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/hotline/PageObjects/BeginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/hotline/PageObjects/StartPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/hotline/PageObjects/ItemList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/hotline/PageObjects/ItemList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/hotline/PageObjects/PageOfProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/hotline/PageObjects/PageOfProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/hotline/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/hotline/Run.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/core/DriverManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/core/DriverManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/io/hotline/PageObjects/BeginTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/io/hotline/PageObjects/ItemList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/io/hotline/PageObjects/ItemList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/io/hotline/PageObjects/PageOfProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/io/hotline/PageObjects/PageOfProduct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/io/hotline/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/io/hotline/Run.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +38,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -36,7 +49,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Run.checkDescription">
+  <component name="RunManager" selected="JUnit.Run.checkPages">
     <configuration name="Run.checkDescription" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TemplateProject" />
       <extension name="coverage">
@@ -48,6 +61,22 @@
       <option name="PACKAGE_NAME" value="io.hotline" />
       <option name="MAIN_CLASS_NAME" value="io.hotline.Run" />
       <option name="METHOD_NAME" value="checkDescription" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run.checkPages" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TemplateProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.hotline.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.hotline" />
+      <option name="MAIN_CLASS_NAME" value="io.hotline.Run" />
+      <option name="METHOD_NAME" value="checkPages" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,6 +94,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Run.checkPages" />
         <item itemvalue="JUnit.Run.checkDescription" />
         <item itemvalue="JUnit.Run.run" />
       </list>
@@ -108,29 +138,37 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="756" y="401" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1579513023185" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1579520432658">
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1579609691753">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579520432658" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1579520432658">
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579609691753" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1579615969161">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579520432658" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1579520432658">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579615969161" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1579615969161">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579520432658" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1579520432658">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579615969161" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1579615969161">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579520432658" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579615969161" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1579615969161">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579615969161" />
     <state x="461" y="163" key="SettingsEditor" timestamp="1579518613172">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579518613172" />
-    <state x="342" y="223" key="new project wizard" timestamp="1579517440304">
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579598714974">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="342" y="223" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1579517440304" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579598714974" />
+    <state x="342" y="223" key="new project wizard" timestamp="1579598737391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="223" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1579598737391" />
   </component>
 </project>

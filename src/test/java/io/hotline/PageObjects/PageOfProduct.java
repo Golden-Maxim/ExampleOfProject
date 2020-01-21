@@ -15,7 +15,7 @@ public class PageOfProduct {
 
         String temp[] = str.trim().split("\\s+");
         for (int i = 0;i < temp.length;i++){
-            if(temp[i].contains("Телевізори")){
+            if(temp[i].contains("Теле222ори")){
                 System.out.println("The type of product contains Телевізори");
             }
         }

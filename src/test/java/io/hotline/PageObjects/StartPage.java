@@ -2,7 +2,7 @@ package io.hotline.PageObjects;
 
 import core.DriverManager;
 
-public class BeginTest {
+public class StartPage {
     public static MainPage navigateTo(String url){
         DriverManager.getDriver().get(url);
 
